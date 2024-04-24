@@ -3,8 +3,7 @@
 [![Main](https://img.youtube.com/vi/ffxsTta0OBg/0.jpg)](https://www.youtube.com/watch?v=ffxsTta0OBg)
 
 # Overview
-
-
+Learn how to seamlessly implement a persistent navigation drawer across multiple pages in your Flutter application. This repository provides a streamlined solution for enhancing user experience by maintaining consistent navigation using the Bloc pattern.
 
 ## Installation
 To get started with this repository, follow these steps:
