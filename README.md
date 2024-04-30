@@ -1,5 +1,5 @@
 # FLUTTER Persistent Navigation Drawer Across Pages using BLOC
-### [Watch on YouTube](ffxsTta0OBg)
+### [Watch on YouTube](https://youtu.be/ffxsTta0OBg)
 [![Main](https://img.youtube.com/vi/ffxsTta0OBg/0.jpg)](https://www.youtube.com/watch?v=ffxsTta0OBg)
 
 # Overview
