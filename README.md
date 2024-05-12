@@ -19,8 +19,6 @@ To get started with this repository, follow these steps:
 ## Acknowledgements:
 - Special thanks to the Flutter community for their valuable contributions and insights into Flutter app development.
 
-
-## Preview
  
 
 ## This link allows you to support me, and I appreciate your help:
